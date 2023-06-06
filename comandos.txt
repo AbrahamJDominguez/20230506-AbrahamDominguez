@@ -1,0 +1,12 @@
+cd             Para cambiar de directorio
+git init       para iniciar el repositorio local
+git remote add para vincular con el repositorio remoto
+touch          para crear ficheros
+git add        para agregar ficheros
+git commit     para crear un commit
+git push       para empujar los cambios al repositorio remoto
+git branch     para crear una rama alterna
+mkdir          para crear carpetas
+git checkout   para cambiar de rama
+git branch -m  para cambiar el nombre de la rama
+mv             para cambiar el nombre de archivos

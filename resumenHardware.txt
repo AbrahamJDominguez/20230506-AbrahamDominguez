@@ -1,0 +1,4 @@
+Las memorias principales de la computadora son
+Registros
+Ram
+Rom
